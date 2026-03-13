@@ -1,9 +1,10 @@
+import Title from "@/Components/Title";
 import React from "react";
 
 const Dashboard = () => {
   return (
     <div>
-      <h1>Dashboard page is loading</h1>
+      <Title>This is Dashboard Section</Title>
     </div>
   );
 };
